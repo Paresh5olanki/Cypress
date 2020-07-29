@@ -1,0 +1,15 @@
+{
+  "name": "cypressplayground",
+  "version": "1.0.0",
+  "description": "Cypress PLayground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "cypress open"
+  },
+  "author": "Paresh Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  }
+}
